@@ -29,3 +29,6 @@ As life goes on, as events happen, you would find that it becomes harder and har
 ![04](https://github.com/msc-creative-computing/p-comp-week-1-labs-jasper-zheng/blob/main/src/04-min.gif?raw=true)    
 
 This is the achievement of a life lived sentiently.
+
+
+> Inspiration: The idea behind the project is inspired by an musical directed by Rudy Mancuso: https://youtu.be/RqATb20dO34?t=188  
