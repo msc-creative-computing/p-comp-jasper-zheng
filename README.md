@@ -3,6 +3,7 @@
 # Sentient  
 
 A simulation of the evolving personality inside an AI.   
+[Tinkercad](https://www.tinkercad.com/things/bvWo1WAxS34-p-comp-week-1-labs-jasper-zheng)  
 
 
 ### Life Begin
