@@ -22,10 +22,11 @@ Throughout its lifetime, the agent's mind evolves to confront different events i
 By this simplistic mechanism, the agent's cognition grows, characteristic is gradually constructed.
 
 ### Eternal Characteristic  
+At the beginning, the agent is sensitive to new events. Its cognition is incapable to deal with the ever-changing environment. Therefore, a small stimulus may dramatically affect its pace.  
 
-As buttons are pressed, it becomes harder and harder to speed up or slow down the agent. At that moment, simply pressing the button once or twice doesn't evidently affect the agent's personality anymore.  
+However, as buttons are pressed, it becomes harder and harder to speed up or slow down the agent. At that moment, simply pressing the button once or twice doesn't evidently affect the agent's pace anymore.  
 
-As life goes on, as the agent experiences more, its cognition is reinforced, and it eventually reaches an equilibrium. Therefore, **the pace of the agent becomes stable**, emotion accrues, beliefs are constructed, an eternal characteristic is formed.  
+As life goes on, as the agent experiences more, its cognition is reinforced, and it eventually reaches an equilibrium. Therefore, **the pace of the agent becomes stable**, emotion accrues, personality are constructed, an eternal characteristic is formed.  
 
 ![04](https://github.com/msc-creative-computing/p-comp-week-1-labs-jasper-zheng/blob/main/src/04-min.gif?raw=true)    
 
