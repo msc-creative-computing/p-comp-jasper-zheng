@@ -1,15 +1,15 @@
 
-# Sentient  
 ###### /ˈsɛntɪənt/: able to perceive or feel things.  
+# Sentient  
 
 A simulation of the evolving personality inside an AI.   
 
 
-#### Life Begin
+### Life Begin
 The life of an artificial life began, moving at a steady pace.  
 ![01](https://github.com/msc-creative-computing/p-comp-week-1-labs-jasper-zheng/blob/main/src/01-min.gif?raw=true)  
 
-#### Personality Offset
+### Personality Offset
 Throughout its lifetime, the agent's mind evolves to confront the events in life, and metabolise them into familiar routines. The two buttons help offset the agent's personality:
  * The **green button** indicates a positive stimulus. Once pressed, the agent feels the happiness, becomes confident; over time, **it moves faster**. The stimulus is memorised by the agent's cognition.  
 
@@ -20,7 +20,7 @@ Throughout its lifetime, the agent's mind evolves to confront the events in life
 
 During this simplistic mechanism, the agent's cognition grows.  
 
-#### Eternal Characteristic  
+### Eternal Characteristic  
 
 However, an interesting circumstance happens:   
 
