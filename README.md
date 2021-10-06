@@ -7,7 +7,7 @@ A simulation of the evolving personality inside an AI.
 
 
 ### Life Begin
-The life of an artificial life began, moving at a steady and vibrant pace.  
+The life of an artificial creature began, moving at a steady and vibrant pace.  
 ![01](https://github.com/msc-creative-computing/p-comp-week-1-labs-jasper-zheng/blob/main/src/01-min.gif?raw=true)  
 
 ### Personality Offset
