@@ -18,13 +18,13 @@ Throughout its lifetime, the agent's mind evolves to confront different events i
  * Similarly, the **red button** indicates a negative stimulus. Once pressed, the agent feels upset and has to deal with it; therefore, **it moves slower**. Again, the stimulus is memorised by the agent's cognition.  
  * ![03](https://github.com/msc-creative-computing/p-comp-week-1-labs-jasper-zheng/blob/main/src/03-min.gif?raw=true)  
 
-During this simplistic mechanism, the agent's cognition grows. However... 
+During this simplistic mechanism, the agent's cognition grows. However...
 
 ### Eternal Characteristic  
 
 However, an interesting circumstance happens:   
 
-As life goes on, as events happen, you would find that it becomes harder and harder to speed up or slow down the agent. Simply pressing the button once or twice doesn't evidently affect the agent's personality. Eventually, the pace of the agent becomes stable, emotion accrues, beliefs are constructed, an eternal characteristic is formed.  
+As life goes on, as events happen, you would find that it becomes harder and harder to speed up or slow down the agent. Simply pressing the button once or twice doesn't evidently affect the agent's personality. Eventually, **the pace of the agent becomes stable**, emotion accrues, beliefs are constructed, an eternal characteristic is formed.  
 
 ![04](https://github.com/msc-creative-computing/p-comp-week-1-labs-jasper-zheng/blob/main/src/04-min.gif?raw=true)    
 
