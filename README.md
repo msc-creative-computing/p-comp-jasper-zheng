@@ -18,7 +18,7 @@ Throughout its lifetime, the agent's mind evolves to confront different events i
  * Similarly, the **red button** indicates a negative stimulus. Once pressed, the agent feels upset and has to deal with it; therefore, **it moves slower**. Again, the stimulus is memorised by the agent's cognition.  
  * ![03](https://github.com/msc-creative-computing/p-comp-week-1-labs-jasper-zheng/blob/main/src/03-min.gif?raw=true)  
 
-During this simplistic mechanism, the agent's cognition grows.  
+During this simplistic mechanism, the agent's cognition grows. However... 
 
 ### Eternal Characteristic  
 
