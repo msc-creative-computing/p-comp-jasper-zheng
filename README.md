@@ -30,5 +30,7 @@ As life goes on, as events happen, you would find that it becomes harder and har
 
 This is the achievement of a life lived sentiently.
 
+.  
 
+.  
 > Inspiration: The idea behind the project is inspired by an musical directed by Rudy Mancuso: https://youtu.be/RqATb20dO34?t=188  
