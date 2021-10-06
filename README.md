@@ -1,6 +1,7 @@
 
 ###### /ˈsɛntɪənt/: able to perceive or feel things.  
 # Sentient  
+![01](https://img.shields.io/badge/-arduino-blue)  
 
 A simulation of the evolving personality inside an AI.   
 [Tinkercad](https://www.tinkercad.com/things/bvWo1WAxS34-p-comp-week-1-labs-jasper-zheng)  
