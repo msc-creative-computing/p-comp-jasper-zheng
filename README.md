@@ -4,7 +4,6 @@
 
 A simulation of the evolving personality inside an AI.   
 
-## The Life of an Artificial Life
 
 #### Life Begin
 The life of an artificial life began, moving at a steady pace.  
