@@ -1,7 +1,7 @@
 # Read Sensor Data from Arduino with JavaScript (using Johnny-Five)  
 
 Just a template in case I might need it in the future..  
-![img](https://github.com/jasper-zheng/cci-pcomp-jasper-zheng/blob/main/week_02/IMG_0222.gif?raw=true)  
+![img](https://github.com/msc-creative-computing/p-comp-jasper-zheng/blob/main/week_02/IMG_0222.gif?raw=true)  
 
 
 ### Quickstart  

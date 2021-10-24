@@ -1,7 +1,7 @@
 ###### /ˈsɛntɪənt/: able to perceive or feel things.  
 # Sentient (Reimagined)  
 
-An evolving LED sequence with photoresistor that feedback on itself, constantly updating the moving speed and gradually reach an equilibrium. This is an extension to the [week 1 creative lab: Sentient](https://github.com/jasper-zheng/cci-pcomp-jasper-zheng/tree/main/week_01/Pt.%202%20Creative_Labs).  
+An evolving LED sequence with photoresistor that feedback on itself, constantly updating the moving speed and gradually reach an equilibrium. This is an extension to the [week 1 creative lab: Sentient](https://github.com/msc-creative-computing/p-comp-jasper-zheng/tree/main/week_01/Pt.%202%20Creative_Labs).  
 
 https://user-images.githubusercontent.com/74963879/138005931-ffa2bf76-8657-48e5-8a37-c852d0c53ec6.mp4  
 
