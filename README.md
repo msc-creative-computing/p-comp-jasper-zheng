@@ -28,4 +28,4 @@ I made an analog synthesiser with three knobs:
 #### Video 1  
 https://user-images.githubusercontent.com/74963879/144074482-88277755-2162-4c06-a4ae-e995757ad686.mp4
 
-![img](https://github.com/msc-creative-computing/p-comp-jasper-zheng/blob/main/week_08/src/IMG_1499.jpg?raw=true)  
+<img src="week_08/src/IMG_1499.jpg" width="600">  
