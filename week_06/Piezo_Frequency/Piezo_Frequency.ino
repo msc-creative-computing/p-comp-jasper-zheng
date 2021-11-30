@@ -1,7 +1,7 @@
 #include <MozziGuts.h>
 #include <Oscil.h> // oscillator
 #include <tables/sin2048_int8.h> // table for Oscils to play
-#include <tables/squarewave_no_alias_2048_int8.h>
+#include <tables/square_no_alias_2048_int8.h>
 #include <Smooth.h>
 #include <mozzi_midi.h>
 
