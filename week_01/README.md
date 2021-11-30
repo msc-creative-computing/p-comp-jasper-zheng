@@ -31,9 +31,3 @@ As life goes on, as the agent experiences more, its cognition is reinforced, and
 ![04](https://github.com/msc-creative-computing/p-comp-jasper-zheng/blob/main/week_01/src/04-min.gif?raw=true)    
 
 This is the achievement of a life lived sentiently.
-
-.  
-
-.  
-> Inspiration: The idea behind the project is inspired by a musical directed by Rudy Mancuso: *Cure for Loneliness*  
- https://youtu.be/RqATb20dO34?t=188  
