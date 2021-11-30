@@ -1,4 +1,4 @@
-# Analog Synth
+# Analog Synth with a Lowpass Filter and LFO  
 
 
 
@@ -10,3 +10,7 @@ https://user-images.githubusercontent.com/74963879/144049626-6d8c0f99-a2b4-460f-
 
 
 https://user-images.githubusercontent.com/74963879/144050075-43999b2a-7ed0-4d33-bc83-3e880cf347e3.mp4
+
+
+
+schematic  
