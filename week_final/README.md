@@ -11,10 +11,13 @@ https://user-images.githubusercontent.com/74963879/144180841-e29b015b-283d-43cb-
 
 
 [Full Video 01](https://youtu.be/vGd-JQdAmYI) (Human interaction)  
-[Full Video 02](https://youtu.be/jQ1evAxYSqI) (Wind interaction)
+[Full Video 02](https://youtu.be/jQ1evAxYSqI) (Wind interaction)  
 
+[Information Board (Presentation PDF)](https://github.com/msc-creative-computing/p-comp-jasper-zheng/blob/main/week_final/graphics/README.md)  
 
 The installation attempts to aestheticise the chaotic dynamics in natural systems. While the vegetal lives produce unpredictable signals that manipulate the light and the tonal terrain, we are invited to review the possibility of 'organic collaborators' that we might confront in the future.  
+
+
 
 ## Technical Details  
 
