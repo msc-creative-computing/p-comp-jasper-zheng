@@ -2,7 +2,7 @@
 
 <img src="InformationBoard-01.jpg">    
 https://github.com/msc-creative-computing/p-comp-jasper-zheng/tree/main/week_final  
-  
+
 <img src="InformationBoard-02.jpg">    
 https://youtu.be/vGd-JQdAmYI  
 
@@ -16,7 +16,9 @@ https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breako
 <img src="InformationBoard-06.jpg">    
 Video 1  
 https://youtu.be/vGd-JQdAmYI  
+
 Video 2  
 https://youtu.be/jQ1evAxYSqI  
+  
 Github Repositories (Codes, and other documenntations)  
 https://github.com/msc-creative-computing/p-comp-jasper-zheng/tree/main/week_final  
