@@ -2,7 +2,7 @@
 
 <img src="graphics/up_01.jpg">    
 
-↑↑↑% (up percent) is a sound installation that reveals possible interactions of plants, sound, light and humans. The assembled system is sensitive to changes in the electrostatic field, which can be triggered by either a soft touch from humans, wind, moisturisation, or the natural turbulent inside the vessels and vines. Measured changes **control parameters of the digitally synthesised sound (oscillation frequencies, LFO rates, modulation index)**. Fluctuating light bulbs in the glass jar indicate the current level of activation of the system.  
+↑↑↑% (up percent) is a sound installation that reveals possible interactions of natural systems, sound, light and humans. The assembled installation is sensitive to changes in the electrostatic field, which can be triggered by either a soft **touch from humans, wind, moisturisation, or the invisible turbulence inside the vessels and vines**. Measured changes control parameters of the digitally synthesised sound (**oscillation frequencies, LFO rates, modulation index**). Fluctuating light bulbs in the glass jar indicate the current level of activation of the system.
 
 
 
@@ -15,7 +15,9 @@ https://user-images.githubusercontent.com/74963879/144180841-e29b015b-283d-43cb-
 
 [Information Board (Presentation PDF)](https://github.com/msc-creative-computing/p-comp-jasper-zheng/blob/main/week_final/graphics/README.md)  
 
-The installation attempts to aestheticise the chaotic dynamics in natural systems. While the vegetal lives produce unpredictable signals that manipulate the light and the tonal terrain, we are invited to review the possibility of 'organic collaborators' that we might confront in the future.  
+↑↑↑% attempts to aestheticise the chaotic dynamics in the physical world. As we program our digital system to generate noise procedurally, we are more than welcome to take the input from natural systems and trigger undetectable patterns.  
+
+While the plants produce unpredictable signals that manipulate the light and the tonal terrain, we are invited to review the possibility of 'organic collaborators' that we might confront in the future.  
 
 
 
