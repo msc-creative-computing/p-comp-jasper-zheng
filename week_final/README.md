@@ -1,12 +1,11 @@
 # ↑↑↑%  
-###### Final Project - Creative Making: Advanced Physical Computing  
-Jasper Zheng (Shuoyang) / 21009460  
+###### Pcomp Final Project - Jasper Zheng (Shuoyang) / 21009460  
+
+## Overview
 
 <img src="graphics/up_01.jpg">    
 
-↑↑↑% (up percent) is a sound installation that reveals possible interactions of natural systems, sound, light and humans. The assembled installation is sensitive to changes in the electrostatic field, which can be triggered by either a soft **touch from humans, wind, moisturisation, or the invisible turbulence inside the vessels and vines**. Measured changes control parameters of the digitally synthesised sound (**oscillation frequencies, LFO rates, modulation index**). Fluctuating light bulbs in the glass jar indicate the current level of activation of the system.
-
-
+↑↑↑% (up percent) is a sound installation that reveals possible interactions of natural systems, sound, light and humans. The assembled installation is sensitive to changes in the electrostatic field, which can be triggered by either a soft **touch from humans, wind, moisturisation, or the invisible turbulence inside the vessels and vines**. Measured changes control parameters of the digitally synthesised sound (**oscillation frequencies, LFO rates, modulation index**). Fluctuating light bulbs in the glass jar indicate the current level of activation of the system.  
 
 https://user-images.githubusercontent.com/74963879/144180841-e29b015b-283d-43cb-ba45-de2ebb2bcaa9.mp4
 
@@ -16,6 +15,9 @@ https://user-images.githubusercontent.com/74963879/144180841-e29b015b-283d-43cb-
 [Full Video 02](https://youtu.be/jQ1evAxYSqI) (Wind interaction)  
 
 [Information Board (Presentation PDF)](https://github.com/msc-creative-computing/p-comp-jasper-zheng/blob/main/week_final/graphics/README.md)  
+
+
+## Objectives  
 
 ↑↑↑% attempts to aestheticise the chaotic dynamics in the physical world. As we program our digital system to generate noise procedurally, we are more than welcome to take the input from natural systems and trigger undetectable patterns.  
 
