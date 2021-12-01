@@ -1,4 +1,6 @@
 # ↑↑↑%  
+###### Final Project - Creative Making: Advanced Physical Computing  
+Jasper Zheng (Shuoyang) / 21009460  
 
 <img src="graphics/up_01.jpg">    
 
