@@ -54,4 +54,4 @@ Circuit diagram created with Fritzing: [Fzz file](https://github.com/msc-creativ
 
 #### Arduino Sketch  
 Require [Mozzi Library](https://github.com/sensorium/Mozzi#installation)    
-[Sketch file](https://github.com/msc-creative-computing/p-comp-jasper-zheng/blob/main/week_final/assemble/up_percent/up_percent.ino)
+[Sketch file](https://github.com/msc-creative-computing/p-comp-jasper-zheng/blob/main/week_final/assemble/pcomp_final/pcomp_final.ino)
